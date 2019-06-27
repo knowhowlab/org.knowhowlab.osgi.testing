@@ -10,7 +10,31 @@
 
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>org.knowhowlab.osgi</groupId>
     <artifactId>org.knowhowlab.osgi.testing.bnd.junit</artifactId>
+
+    <name>KnowHowLab OSGi Testing - Integration Test: with BND maven plugin - JUnit 4.x</name>
+    <description>KnowHowLab OSGi Testing - Integration Test: BND maven plugin - JUnit 4.x</description>
+    <url>http://knowhowlab.org</url>
+
+    <developers>
+        <developer>
+            <name>Gadi Eichhorn</name>
+            <timezone>GMT</timezone>
+        </developer>
+    </developers>
+
+    <organization>
+        <name>Know-How Lab</name>
+        <url>http://knowhowlab.org</url>
+    </organization>
+
+    <licenses>
+        <license>
+            <name>Apache License 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+        </license>
+    </licenses>
 
 
 </project>
