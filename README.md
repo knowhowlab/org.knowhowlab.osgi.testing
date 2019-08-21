@@ -3,7 +3,8 @@
 [![Join the chat at https://gitter.im/dpishchukhin/org.knowhowlab.osgi.testing](https://badges.gitter.im/dpishchukhin/org.knowhowlab.osgi.testing.svg)](https://gitter.im/dpishchukhin/org.knowhowlab.osgi.testing?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/dpishchukhin/org.knowhowlab.osgi.testing.svg?branch=master)](https://travis-ci.org/dpishchukhin/org.knowhowlab.osgi.testing)
 [![codecov](https://codecov.io/gh/dpishchukhin/org.knowhowlab.osgi.testing/branch/master/graph/badge.svg)](https://codecov.io/gh/dpishchukhin/org.knowhowlab.osgi.testing)
-[![Buy me a coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/BMC-btn-logo.svg)](https://www.buymeacoffee.com/dimi)
+
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/dimi)
 
 OSGi specific assertions and utility classes that help to write OSGi integration/system tests.
 
